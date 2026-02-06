@@ -1,0 +1,52 @@
+commit 8edd8d134ade09765e9ba291eb20153f5bbf56d5
+Merge: b4fd3c9 03f2dfd
+Author: Andrew Gutierrez <gutierrezandrew412@gmail.com>
+Date:   Thu Feb 5 21:11:17 2026 -0800
+
+    Resloved merge conflict in index.html
+
+commit 03f2dfd3e3fe035a5334d44b1bcf28a82d475d04
+Author: Andrew Gutierrez <gutierrezandrew412@gmail.com>
+Date:   Thu Feb 5 21:08:12 2026 -0800
+
+    added div for my favorite game
+
+commit b4fd3c9f9168c61c67cefa7274182e99fa667c76
+Author: Andrew Gutierrez <gutierrezandrew412@gmail.com>
+Date:   Thu Feb 5 21:06:37 2026 -0800
+
+    added div for my favorite food
+
+commit 931d728c67a00db3309cfc3961ab8eee43a4dae2
+Merge: 5c4dfa6 b130964
+Author: Andrew Gutierrez <gutierrezandrew412@gmail.com>
+Date:   Thu Feb 5 21:00:11 2026 -0800
+
+    put details for index
+
+commit 5c4dfa6216cd2fe7efd19b4a87b24a25283ea6fb
+Author: Andrew Gutierrez <gutierrezandrew412@gmail.com>
+Date:   Thu Feb 5 20:52:42 2026 -0800
+
+    Added a README.md file
+
+commit b130964d2e5f7a2651eb286bbba90c40cfef14ff
+Merge: 1d2bfc0 a6d5d96
+Author: Andrew Gutierrez <gutierrezandrew412@gmail.com>
+Date:   Thu Feb 5 20:45:37 2026 -0800
+
+    Merge pull request #1 from gutierrezandrew412-bit/info-fill
+    
+    Added name and favorite hobby into index.html
+
+commit a6d5d9667272aa7c18122dab08da41ed84865be0
+Author: Andrew Gutierrez <gutierrezandrew412@gmail.com>
+Date:   Thu Feb 5 20:24:10 2026 -0800
+
+    Added name and favorite hobby into index.html
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
